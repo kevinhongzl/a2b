@@ -14,7 +14,7 @@ with their corresponding bibliographic information, which intends to create a mo
 
 | [Markdown](#markdown)| [Notion Database](#notion-database) |
 |:---:|:---:|
-![demo](https://github.com/kevinkevin556/arxiv2bib/raw/main/demo.gif) |![demo](https://github.com/kevinkevin556/arxiv2bib/raw/main/notion-demo.gif)|
+![demo](demo.gif) |![demo](notion-demo.gif)|
 
 
 ## Installation
